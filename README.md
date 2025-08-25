@@ -22,3 +22,9 @@ Turn natural language into working Unity UI Toolkit screens. Describe the UI, ge
 > Note: You may see a security popup asking for internet access. This is expected - UnityAssist uses a Python backend to leverage battle-tested AI libraries and frameworks. Please allow access for the local backend executable to function properly.
 
 ![Allow Local Backend](AllowLocalBackend.png)
+
+## Community
+
+Join our official Discord server to connect with other developers, share your creations, get support, and stay updated on the latest features!
+
+[Join Discord Server](https://discord.gg/RVJxtkA7BS)
