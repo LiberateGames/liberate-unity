@@ -19,6 +19,6 @@ Turn natural language into working Unity UI Toolkit screens. Describe the UI, ge
 4. Start UI generation
  - Describe your UI in natural language and generate!
 
-> Note: Make sure to allow access of our local backend executable is allowed internet access.
+> Note: You may see a security popup asking for internet access. This is expected - UnityAssist uses a Python backend to leverage battle-tested AI libraries and frameworks. Please allow access for the local backend executable to function properly.
 
 ![Allow Local Backend](AllowLocalBackend.png)
