@@ -18,7 +18,7 @@ Turn natural language into working Unity UI screens. Describe the UI, get comple
  - In Unity, unzip your LiberateGames.zip under the Assets folder.
 
 3. Open the window
- - Window > UnityKnowLang > AI Chat Interface
+ - Window > LiberateGames > Agent Interface
 
 4. Start UI generation
  - Describe your UI in natural language and generate!
