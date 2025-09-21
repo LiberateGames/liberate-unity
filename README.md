@@ -1,17 +1,21 @@
-# UnityAssist
-## Agentic UI Generator for Unity (MVP Beta)
-Turn natural language into working Unity UI Toolkit screens. Describe the UI, get UXML + USS + C# bindings ready to run in-editor.
+# LiberateGames
+## Agentic UI Generator for Unity (Beta)
+Turn natural language into working Unity UI screens. Describe the UI, get complete code ready to run in-editor.
 
-- Input: a short prompt (e.g., “Settings menu with Audio, Graphics, Controls; Save/Cancel buttons”)
-- Output: UXML layout, USS styles, and a C# view/controller script.
+**Supported UI Systems:**
+- **UI Toolkit** (Stable): UXML layout + USS styles + C# bindings
+- **uGUI** (Experimental - Not Stable): Canvas + GameObject hierarchy + C# scripts
+
+- Input: a short prompt (e.g., "Settings menu with Audio, Graphics, Controls; Save/Cancel buttons")
+- Output: Complete UI implementation with scripts
 
 
 ## Install
 1. Download
- - Get the UnityAssist.zip from the [releases page](https://github.com/LiberateGames/liberate-unity/releases).
+ - Get the LiberateGames.zip from the [releases page](https://github.com/LiberateGames/liberate-unity/releases).
 
 2. Import
- - In Unity, unzip your UnityAssist.zip under the Assets folder.
+ - In Unity, unzip your LiberateGames.zip under the Assets folder.
 
 3. Open the window
  - Window > UnityKnowLang > AI Chat Interface
@@ -19,7 +23,7 @@ Turn natural language into working Unity UI Toolkit screens. Describe the UI, ge
 4. Start UI generation
  - Describe your UI in natural language and generate!
 
-> Note: You may see a security popup asking for internet access. This is expected - UnityAssist uses a Python backend to leverage battle-tested AI libraries and frameworks. Please allow access for the local backend executable to function properly.
+> Note: You may see a security popup asking for internet access. This is expected - LiberateGames uses a Python backend to leverage battle-tested AI libraries and frameworks. Please allow access for the local backend executable to function properly.
 
 ![Allow Local Backend](AllowLocalBackend.png)
 
